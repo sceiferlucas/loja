@@ -1,0 +1,15 @@
+body{
+    background-color: #201f1f;
+    color: white;
+}
+.jumbotron {
+    color: white;
+    background-color: black;
+}
+ a{
+     text-decoration: none;
+ }
+
+.navbar-brand img{
+     width: 30px;
+ }
